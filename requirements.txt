@@ -1,0 +1,18 @@
+# python>=3.9
+torch
+requests
+tqdm
+pandas
+librosa
+wfdb
+numpy
+matplotlib
+seaborn
+torchaudio
+pydub
+noisereduce
+opensmile
+audiofile
+joblib
+torchvision
+tensorflow
